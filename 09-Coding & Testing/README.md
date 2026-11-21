@@ -1,4 +1,4 @@
-# 09 - Coding & Testing: Padelku
+# 09 - Coding & Testing: Padelku (Implementasi)
 
 Implementasi Sistem Reservasi Lapangan Padel dengan Laravel 12, PHP 8.2, dan MySQL.
 Kode ada di `padelku-RPL.zip`.
